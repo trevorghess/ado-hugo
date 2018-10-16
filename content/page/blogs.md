@@ -11,6 +11,7 @@ This is a list of DevOps-related blogs that we think are pretty cool.
 
 - {{< bloglink url="https://www.ansible.com/blog" title="Ansible Blog" rss="https://www.ansible.com/blog/rss.xml" >}}
 - [Chef Blog](https://blog.chef.io/)
+- [Codefresh Blog](https://codefresh.io/blog/)
 - [Docker Blog](https://blog.docker.com/)
 - [Puppet Blog](https://puppet.com/blog/)
 - [PagerDuty Blog](https://www.pagerduty.com/blog/)
@@ -26,7 +27,7 @@ This is a list of DevOps-related blogs that we think are pretty cool.
 - [Scott Hanselman's Blog](http://www.hanselman.com/blog/)
 - [blog dot lusis](http://blog.lusis.org/)
 - [Bridget Kromhout's Blog](http://bridgetkromhout.com/)
-- [Matt Stratton's sorta-tech blog](https://www.mattstratton.io)
+- [Matty Stratton's sorta-tech blog](https://www.mattstratton.io)
 - [Cote.io](https://cote.io/)
 - [The IT Skeptic](http://www.itskeptic.org/)
 - [The New Dromologue](http://www.dromologue.com/)
