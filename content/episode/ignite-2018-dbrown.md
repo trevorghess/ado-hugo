@@ -1,7 +1,7 @@
 +++
 Description = "Trevor and Jason are joined by Donovan Brown at Microsoft Ignite 2018, and have a quick catch up on the event and the state of the DevOps world."
-podcast = ""
-podcast_duration = ""
+podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode115.mp3"
+podcast_duration = "30:24"
 tags = []
 categories = []
 guests = ["dbrown","jhand1"]
